@@ -1,5 +1,4 @@
-#require "getaway_aws/version"
-#require 'aws-sdk'
+require 'aws-sdk'
 
 module GetawayAws
   def car
